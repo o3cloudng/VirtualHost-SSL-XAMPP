@@ -1,4 +1,4 @@
-# VirtualHost-SSL-XAMPP
+# Configure SSL-XAMPP
 
 ### Steps to Configure Virtual host and SSL on xampp
 
@@ -41,6 +41,8 @@ Add this at the buttom:
 </VirtualHost>
 ```
 
+
+#### Virtual Host on windows
 `c:/windows/system32/drivers/etc/`
 Open the `hosts` file
 127.0.0.1 sites.local
